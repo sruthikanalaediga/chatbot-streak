@@ -1,2 +1,3 @@
-Day 1:
-Built a Python terminal chatbot using OpenAI API.
+# Chatbot Streak
+
+Day 1: Built Python terminal chatbot.
